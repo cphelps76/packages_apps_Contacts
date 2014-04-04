@@ -236,4 +236,7 @@
         <item name="android:textSize">18sp</item>
     </style>
 
+    <style name="Theme.RingtoneDialog" parent="@*android:style/Theme.Holo.Dialog.Alert">
+    </style>
+
 </resources>
